@@ -23,5 +23,6 @@ else if (amount < 500 && amount >= 300)
 }
 else
 {
-    Console.WriteLine($"the the final amount : {amount}");
+    Console.WriteLine($"the the final amount : {amount}"); 
+
 }
